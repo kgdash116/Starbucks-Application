@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Payments
+comment0.text=Payments\ Screen
+comment1.params=
+comment1.target=Payments()
+comment2.params=
+comment2.target=java.lang.String\ display()
+comment2.text=\r\n\ Return\ Payments\ Screen\r\n\ @return\ Contents\ from\ Payments\ Screen\r\n
+numComments=3

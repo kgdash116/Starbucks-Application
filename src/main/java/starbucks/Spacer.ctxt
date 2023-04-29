@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Spacer
+comment0.text=Spacer\ "Blank\ Line"\ Component
+comment1.params=
+comment1.target=java.lang.String\ display()
+comment1.text=\r\n\ Return\ A\ Black\ "Spacer"\r\n\ @return\ [description]\r\n
+comment2.params=c
+comment2.target=void\ addSubComponent(IDisplayComponent)
+comment2.text=\r\n\ Add\ Sub\ Component.\ --\ Not\ used.\r\n\ @param\ c\ Component.\r\n
+comment3.params=x\ y
+comment3.target=void\ touch(int,\ int)
+comment3.text=\r\n\ Handle\ Touch\ Event\ --\ Pass\ on\ to\ next\ in\ the\ chain\r\n\ @param\ x\ Touch\ X\r\n\ @param\ y\ Touch\ Y\r\n
+comment4.params=next
+comment4.target=void\ setNext(ITouchEventHandler)
+comment4.text=\r\n\ Set\ Next\ Handler\ in\ the\ Chain\r\n\ @param\ next\ Handler\ Object\ for\ Touch\ Events\r\n
+numComments=5
